@@ -12,6 +12,9 @@ library(urca)
 library(forecast)
 library(Rcmdr)
 
+
+
+
 ## Import and transfer data to time series format
 
 clean = read.csv("clean1.csv")
